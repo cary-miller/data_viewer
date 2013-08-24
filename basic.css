@@ -1,0 +1,45 @@
+.info_active {
+    font-variant: small-caps;
+    color: blue;
+    background: yellow; 
+}
+
+
+.hidden {
+    display: none;
+}
+
+.output {
+    width: 50%;
+    float: left; 
+}
+
+svg {
+    background: yellow; 
+    color: blue;
+}
+
+
+.output1 {
+    width: 60%;
+    float: left; 
+}
+
+
+.output2 {
+    float: left; 
+}
+
+.incoming {
+    width: 40%;
+    float: left; 
+}
+
+.output3 {
+    float: left; 
+}
+
+
+
+
+
